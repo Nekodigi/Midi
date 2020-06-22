@@ -4,7 +4,7 @@ Player player;
 
 void setup() {
   size(1000, 500);
-  player = new Player("Different Heaven - Nekozilla.mid");
+  player = new Player("Symphony25_1.mid");
   player.start();
 }
 void draw() {
